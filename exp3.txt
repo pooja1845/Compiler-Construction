@@ -1,0 +1,10 @@
+Enter C source code:
+int a =10;
+
+--- Lexical Analysis ---
+int -> KEYWORD
+a -> IDENTIFIER
+= -> OPERATOR
+1 -> NUMBER
+0 -> NUMBER
+; -> SPECIAL SYMBOL
